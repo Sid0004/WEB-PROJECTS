@@ -14,4 +14,5 @@ Cross-Platform: Compatible with desktop and mobile browsers.
 Frontend: HTML, CSS, JavaScript
 API Integration: Fetches real-time data from a currency exchange API (e.g., OpenExchangeRates, CurrencyLayer, or similar).
 
-![image](https://github.com/user-attachments/assets/b233eecb-b622-433a-9d12-1b93208d32a6)
+![image](https://github.com/user-attachments/assets/e3b37a2a-19db-4fa6-a1e1-aadefa028907)
+
